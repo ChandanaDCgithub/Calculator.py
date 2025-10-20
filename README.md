@@ -11,9 +11,6 @@ A minimal command-line calculator written in Python. Supports addition, subtract
 ## Usage
 Requirements: Python 3.6+
 
-Run from the terminal:
-python "c:\Users\USER\OneDrive\Documents\New folder (2)\Calculator.py"
-
 Follow the on-screen menu to choose an operation or quit.
 
 ## Files
